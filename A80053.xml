@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Councell of State the remonstrance of Don Alonso de Cardenas of the councell of His Catholicke Majesty, and his embassador in England.</title>
+            <author>Cardenas, Alonso de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80053</idno>
+            <idno type="STC">Wing C496A</idno>
+            <idno type="STC">ESTC R205621</idno>
+            <idno type="EEBO-CITATION">99897549</idno>
+            <idno type="PROQUEST">99897549</idno>
+            <idno type="VID">135388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2509:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Councell of State the remonstrance of Don Alonso de Cardenas of the councell of His Catholicke Majesty, and his embassador in England.</title>
+                  <author>Cardenas, Alonso de.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Lpro copy dated in MS. on p. 2: 5 April 1649.</note>
+                  <note>Wing CD-ROM, 1996 gives a range of dates 1642-50.</note>
+                  <note>Concerns the complaints of, among others, Huet Laet.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leate, Hewett --  Early works to 1800.</term>
+               <term>England --  Foreign Relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135388:1"/>
+            <pb n="1" facs="tcp:135388:1" rendition="simple:additions"/>
+            <head>TO THE Right Honourable the COUNCELL of STATE, THE REMONSTRANCE OF <hi>Don Alonſo de Cardenas</hi> of the Coun<g ref="char:EOLhyphen"/>cell of His Catholicke Majeſty, and His Embaſſador in ENGLAND.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving according to the Command of my Maſter his ſaid Catholick Majeſty, lately preſented unto your Honours, a <hi>Remon<g ref="char:EOLhyphen"/>ſtrance</hi> on the behalf of ſeverall <hi>Spani<g ref="char:EOLhyphen"/>ards</hi> his Subjects; thereby demanding ſpeedy payment of the Summe of 50464 pounds, with the intereſt and dammages for forbearance, due unto them from the <hi>Parliament</hi> of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and therein deſiring your ultimate Reſolution.</p>
+            <p>To which there hath as yet been no anſwer given accor<g ref="char:EOLhyphen"/>ding to deſire.</p>
+            <p>But inſtead thereof have received from your Honours ſe<g ref="char:EOLhyphen"/>verall complaints made by ſeverall <hi>Engliſh</hi> Subjects.</p>
+            <p>Whereof, one is a complaint made by one <hi>Huet Leate</hi>
+               <pb n="2" facs="tcp:135388:2"/>of a ſuppoſed damage done to his Father and others, by the taking of the Ship <hi>
+                  <g ref="char:V">Ʋ</g>ineyard</hi> in the year 1605. to the value of 8690 pounds <hi>ſterling,</hi> by three Frigots ſet out by Mar<g ref="char:EOLhyphen"/>chants of <hi>Sardinia;</hi> in which as a private man, the <hi>Conde del Real</hi> had his ſhare.</p>
+            <p>And for which, as is pretended, although the Complain<g ref="char:EOLhyphen"/>ners had ſeverall ſentences for ſatisfaction in the Courts of Juſtice in <hi>Spaine;</hi> yet to this day, there hath no ſatisfaction been made.</p>
+            <p>And in an Order made by the Honourable Houſe of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of the fifth of <hi>Aprill</hi> paſt; there is beſides the ſaid Complaint mention made of other Complaints of like na<g ref="char:EOLhyphen"/>ture, made by Collonel <hi>Manwaring, Hawes</hi> and <hi>Partners,</hi> and the Adventurers of the Iſle of <hi>Providence.</hi>
+            </p>
+            <p>Which I conceive, to be no ſatisfaction to my aforeſaid reaſonable Demands, nor ought to come at this time to ob<g ref="char:EOLhyphen"/>ſtruct the payment of the ſaid 50464 pounds and damma<g ref="char:EOLhyphen"/>ges, unleſſe it be intended, that the Comerce, and Trafficke betweene the Subjects of <hi>England,</hi> and the Subjects of the Crown of <hi>Spaine,</hi> ſhould be utterly overthrowne; which I ſhall, as breifly as a Caſe of ſo great concernment will give me leave Remonſtrate unto you.</p>
+            <div type="part">
+               <head>And firſt in the Generall.</head>
+               <p>JT is to be obſerved, that the Complaints are of much antiquity, one of them being long before the laſt War be<g ref="char:EOLhyphen"/>tween <hi>Spaine</hi> and <hi>England;</hi> and it cannot be upon any grounds of reaſon imagin'd, that when the Peace was con<g ref="char:EOLhyphen"/>cluded between the Crownes, there ſhould be a latitude left for the Subjects to be at Wars, as in caſe of private, Letters of Reprizall granted to private men, for the making of themſelves good upon the Subjects of that <hi>Prince</hi> which did wrong.</p>
+               <p>But it muſt be reaſonably concluded, that eiher the Com<g ref="char:EOLhyphen"/>plainers,
+<pb n="3" facs="tcp:135388:2"/>were before ſatisfied, or elſe they might have hum<g ref="char:EOLhyphen"/>bly Petitioned their <hi>Prince,</hi> for ſatisfaction to be made them before the Peace concluded.</p>
+               <p>Beſides their hath been ſince that time ſeverall private Letters of Reprizall granted to ſeverall the Subjects of <hi>England,</hi> for dammages done by them, by the Subjects of the Crown of <hi>Spaine;</hi> and for which, as was pretended by them, they could not receive ſatisfaction by the Juſtice of <hi>Spaine;</hi> And had it been true, that the Complainers had received the dammage pretended they might as well have had Letters of Reprizall, or might have joyned with others, that were damnified in like nature, in their Letters of Reprizall.</p>
+               <p>Beſides which it is great reaſon, that private quarrells and differences between Crowns &amp; their Subjects in ami<g ref="char:EOLhyphen"/>ty ſhould not be perpetuated to poſterity: otherwiſe it is not poſſible that Peace made &amp; concluded between them, ſhould be kept <hi>&amp;</hi> continued; for the private quarrells be<g ref="char:EOLhyphen"/>tween the Subjects muſt in time make a generall quarrell, between the Nations; and Complaints of this nature, may by the ſame reaſon be grounded on injuries done by the Subjects of either Nation, as well twice or thrice forty yeares, as from forty foure yeares, which is the antiquity of this Complaint, and may occaſion His Catholicke Ma<g ref="char:EOLhyphen"/>jeſty, to look back to the pretences in the Raigne of Queene <hi>Elizabeth,</hi> and higher times, to the aſſurance of daily and new wrongs, and perpetuall differences between the Subjects of either Nation, and mutuall juſtification of them by fore paſſed injuries; the inſtances whereof can<g ref="char:EOLhyphen"/>not be wanting, where there is a will to do wrong.</p>
+               <p>Which I preſſe the rather ſince the date of the preſent pretended injury, is beyond that time, which by the Cuſtome and Law of moſt Chriſtian Nations, is a time immemoriall, which extends but to forty years.</p>
+               <p>
+                  <pb n="4" facs="tcp:135388:3"/>
+And it is great reaſon there ſhould be a time prefixed for all men to proſecute their differences to a period, o<g ref="char:EOLhyphen"/>therwiſe, no man can call himſelf Maſter of an Eſtate, ſince it is impoſſible for men in all times to have their witneſſes and papers ready to juſtifie themſelves.</p>
+               <p>Which reaſon holds ſtrongly in the caſe before you, for what an impoſſibility is it for the ſtranger who was not privy to the wrong done, and knowes neither par<g ref="char:EOLhyphen"/>ties, matter, or time to anſwer pretences of this na<g ref="char:EOLhyphen"/>ture.</p>
+               <p>And to this purpoſe, I conceive the Five and twen<g ref="char:EOLhyphen"/>tieth Article of the peace concluded between the Crowns was drawn; wherein it is provided in theſe words, that if any thing ſhall be attempted or done by the Subjects of either, the attempters, and ſuch as do offend therein only ſhall be puniſhed, and none other.</p>
+               <p>I ſhall not trouble your Honours with the many ob<g ref="char:EOLhyphen"/>jections of weight that might be made to the papers of the ſaid <hi>Huet Leate,</hi> delivered in to your Honours: there being many paſſages therein which were after ſen<g ref="char:EOLhyphen"/>tence, and are only allegations <hi>exparte,</hi> which if material, could not in juſtice be taken into conſideration without a new and full examination of both ſides, and a review of the whole proceſs which paſt in <hi>Spain,</hi> and upon which the ſentences (which the ſaid <hi>Huet Leate</hi> preten<g ref="char:EOLhyphen"/>deth and alledgeth to have obtained in his behalf, and againſt the <hi>Conde Real</hi>) have been given.</p>
+            </div>
+            <div type="part">
+               <head>But J ſhall ſtate the point ſhort, and cleare upon what is confeſſed.</head>
+               <p>ANd touching the particular complaint of <hi>Leate,</hi> It appeareth by his own Petition, that by the Courts
+<pb n="5" facs="tcp:135388:3"/>of Law in <hi>Spain,</hi> Juſtice was done as far as was poſſible; for there was two ſentences againſt the <hi>Conde Real,</hi> and the execution if it took no effect, was not the default of Juſtice or Law, but becauſe the <hi>Conde del Real</hi> was inſol<g ref="char:EOLhyphen"/>vent, he having no Eſtate (for his perſon could no more by the Lawes of <hi>Spain</hi> be touched for debt then an Earls in <hi>England</hi>) and except Courts of Juſtice ſhall not only give judgment) but alſo pay the debt, I know not what more could be deſired from the Crown of <hi>Spain,</hi> and the Law of that Kingdom then was performed.</p>
+               <p>And I hope it ſhall be no nationall quarrel or crime for one of the Nobility to become inſolvent, and not able to pay his debts, to whomſoever due.</p>
+               <p>For the other caſes of Col. <hi>Manwaring,</hi> and the Adven<g ref="char:EOLhyphen"/>turers to the Iſle of <hi>Providence,</hi> there is nothing of weight that may deſerve an anſwer; for it appeares by their Petition and allegations, that they know the parties that did the ſuppoſed injury, but it doth not appear that ever they took any legall courſe, either in <hi>Spain, Dunkerk,</hi> or elſe-where, againſt the ſuppoſed offenders, and ju<g ref="char:EOLhyphen"/>ſtice was denied them.</p>
+               <p>Now ſince themſelves omitted to take that courſe, when the fact was freſh, and the parties and witneſſes on both ſides living, it cannot be juſtice to charge a ſtranger to anſwer for that he never knew, nor heard of.</p>
+               <p>Beſides it is plainly repugnant to the Articles of the Peace, which provides that no other ſhall be anſwerable for the offence then the party, or parties offending as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+               <p>For which reaſon, and becauſe I will not trouble the buſineſs, nor your Honours with new proofes in the caſes before mentioned, but take the matter as it naturally ri<g ref="char:EOLhyphen"/>ſes from their own papers, now before you, and the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and your <hi>Lordſhips</hi> Orders.</p>
+               <p>And alſo of the caſe of <hi>Manwaring,</hi> which was long handled in the <hi>Parliament,</hi> and by order of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+                  <pb n="6" facs="tcp:135388:4"/>referred to a tryall in the Admiralty Court, where the ſaid <hi>Manwaring</hi> and his Conſorts had the help of civill <hi>Lawyers,</hi> and common <hi>Lawyers,</hi> and all poſſible fa<g ref="char:EOLhyphen"/>vour, and yet ſentence given againſt them, and the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> given for free. Now if in the <hi>Parliament</hi> they were not found faulty, nor to be any way reſponſible for dammages to <hi>Manwaring,</hi> and Company and afterwards abſolved and acquitted by ſentence at Law as others, were formerly in the ſaid Court at the ſuite of <hi>Manwa<g ref="char:EOLhyphen"/>ring,</hi> how can any thing be now imputed to theſe men or their goods.</p>
+               <p>And for Letters of marke to be granted againſt the perſons or goods of ſtrangers which are landed here,<note place="margin">2. <hi>R.</hi> 2.1.</note> and have paid Cuſtome. It is without example, and againſt Law; for that all ſtrangers that come to Trade in this Kingdom, are under the ſafe-gard and protection of the <hi>King.</hi> And though a <hi>King</hi> or <hi>State</hi> doth, or may give Letters of Reprizall againſt Ships or Goods, <hi>ſuper alto mare,</hi> yet it was never ſeen that any ſuch were ever gran<g ref="char:EOLhyphen"/>ted againſt any goods, in any <hi>Kings</hi> or <hi>Parliaments</hi> Pro<g ref="char:EOLhyphen"/>tection and Cuſtody.</p>
+               <p>Nor ſhall I inſiſt upon that (although it may be very cleare) that the Maſter imployed in the Ship belonging to the Adventurers of the Iſle of <hi>Providence,</hi> was Com<g ref="char:EOLhyphen"/>miſſioned from the Adventurers, to take and ſpoile the Subjects of my Maſter, as they have done, and although they ſhould pretend they did it beyond the line, yet it is againſt the 1. and 2. Article of the laſt Treaty.</p>
+               <p>All which I conceive to be ſufficiently ſatisfactory for the taking off the pretences of the complainers, were there nothing elſe in the caſe.</p>
+               <p>But the <hi>Parliament</hi> taking notice that there was ſtore of <hi>Plate, Cochenill,</hi> and other goods brought into <hi>South<g ref="char:EOLhyphen"/>hampton,</hi> belonging to ſtrangers in the Ship, <hi>ſanta clara</hi> did, by Order dated the 26. of <hi>Auguſt,</hi> 1642. Reciting. That whereas the ſaid Ship and Lading, being of a great
+<pb n="7" facs="tcp:135388:4"/>value, in ſilver and other Commodities, was brought into the Port of <hi>Southampton,</hi> from the <hi>Weſt Indies,</hi> without the conſent of the Proprietors, and that therefore it con<g ref="char:EOLhyphen"/>cerned the High Court of <hi>Parliament,</hi> both in Honour and juſtice, to take ſpeciall care that no Subjects of any forraigne State might be wronged by the miſcarriage of any Subjects of this Kingdom.</p>
+               <p>It was therefore ordered by both Houſes of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> that the matter ſhould be ſtrictly examined, and that the ſilver and other goods ſhould be put into ſafe hands, appointed in the ſaid Order, there to remain ſe<g ref="char:EOLhyphen"/>cure to be delivered out to the true Proprietors when it ſhould be known, unto whom the <hi>Bullion</hi> Coyne and Goods did belong.</p>
+               <p>All which did very much ſuite with the Gravity and Juſtice of ſo high a Court, and was much for the Honor of the <hi>Engliſh</hi> Nation.</p>
+               <p>And hereupon being in ſome hopes that the Plate and Goods would have remained in <hi>ſpecie,</hi> for the Proprietors untill ſeverall Orders and Votes were made by the Houſe of Commons, whereby firſt the ſilver amounting to <hi>thirty thouſand foure hundred ſixty foure pounds,</hi> was ap<g ref="char:EOLhyphen"/>pointed to be coyned and diſpoſed of.</p>
+               <p>Next, <hi>ten thouſand pounds</hi> more was directed to be bor<g ref="char:EOLhyphen"/>rowed on the Cochenill.</p>
+               <p>And then all the Goods were to be ſold by the Candle, and ſecured by publique Faith, unleſſe the Proprietors and Owners, would lend 20000 <abbr>l.</abbr> which they did, <hi>viz.</hi> 15000 <abbr>l.</abbr> by the Proprietors, and 5000 <abbr>l.</abbr> by the Owners.</p>
+               <p>And laſtly ordered, That the ſaid <hi>twenty Thouſand pounds,</hi> together with the aforeſaid <hi>Thirty Thouſand four hundred ſixty four pounds,</hi> ſhould ſtand inſtead of bayle for all ſuits and claimes in the Court of Admiralty.</p>
+               <p>I ſhall not mention unto your Honours, wherein theſe
+<pb n="8" facs="tcp:135388:5"/>latter Orders and Votes of the Houſe of Commons, dif<g ref="char:EOLhyphen"/>fer from the former recited Order made by both Houſes.</p>
+               <p>But ſhall only take the advantage by them and the for<g ref="char:EOLhyphen"/>mer paſſages to lift the caſe before you, out of the reach of the Complainers pretences.</p>
+               <p>For by what hath bin ſaid before, the queſtion is not ſo much, whither (in caſe the complainers pretences were true) they ought to be repaired out of the monies now in the <hi>Parliaments</hi> hands.</p>
+               <p>As whither my Maſters Subjects ought not by the ſame rule be repaired in <hi>Spaine,</hi> in caſe the complainers ſhould have recovered by a legall courſe.</p>
+               <p>To conclude, If the pretended injuiries had been true, it had been much for the Honour of the <hi>Parliament,</hi> to have lift the complainers to the ordinary courſe for their recovery, and not to have given them leave to trouble this buſineſs, in regard of the Parliaments promiſe and engagement, that the goods ſhould be preſerved and ſe<g ref="char:EOLhyphen"/>cured for the proprietors.</p>
+               <p>But in caſe the complainers pretences ſhould be ad<g ref="char:EOLhyphen"/>mitted, then my Maſters Subjects are tyed up by the a<g ref="char:EOLhyphen"/>foreſaid Actions of the <hi>Parliament,</hi> from recovering the dammage they have and ſhall ſuſtain, and are made lya<g ref="char:EOLhyphen"/>ble to the ſatisfying of the pretended dammage, which I hope your Honours will not conceive juſt for the reaſons rehearſed, and the Lawes grants Articles and Priviledges following.</p>
+               <p>It is concluded and accorded,<note place="margin">
+                     <hi>1.</hi> Ar<g ref="char:EOLhyphen"/>ticle of the laſt Treaty. <hi>2</hi> Article</note> &amp;c. there ſhall be a good ſincere, &amp;c. a league and peace to endure for ever, to be obſerved and kept as well by Land as Sea, &amp;c.</p>
+               <p>To prevent all mis-underſtanding. It is more clearly declared, that no dammages and depredations ſhall be done unto his Catholique Majeſties Subjects, as well on this ſide as beyond the line.</p>
+               <p>
+                  <pb n="9" facs="tcp:135388:5"/>
+Strangers may come to this Kingdom and buy and ſell freely,<note place="margin">
+                     <hi>9. E.</hi> 3.1.</note> and whoſoever doth them diſturbance ſhall pay double dammage.</p>
+               <p>All Strangers may bring Gold and Silver,<note place="margin">27. <hi>E.</hi> 3.4.</note> and ſhall not be unduly diſturbed.</p>
+               <p>That no Marchant Stranger,<note place="margin">27. <hi>E.</hi> 3.17.</note> be impeached for anothers treſpaſſe, or for anothers Debt whereof he is not Debt<g ref="char:EOLhyphen"/>or, Pledge, nor Maine-partner.</p>
+               <p>All Strangers that come to Trade in this Kingdom,<note place="margin">2. <hi>R.</hi> 2.1.</note> are under the ſafegard and protection of the King, and who doth them diſturbance ſhall pay double dam<g ref="char:EOLhyphen"/>mage.</p>
+               <p>And by the <hi>Charter</hi> granted to Marchants ſtrangers, called <hi>Charta mercatoria</hi> confirmed by ſo many Kings, and laſtly by this <hi>Parliament,</hi> it is expreſſed, <hi>folia</hi> 31. <hi>quod ipſi aut eorum bonae ſeu mercimonia infra idem regnù et poteſtatem pro aliquo debito de quo fide juſores aut principales debitores non extiterint nec pro aliqua tranſgreſſione facta ſeu facienda, per aliquos quam ipſes non arreſtantur nec graven<g ref="char:EOLhyphen"/>tur.</hi>
+               </p>
+               <p>And by the 25. <hi>Article</hi> of the <hi>Peace,</hi> That if during this <hi>Peace</hi> any thing be attempted, or done by Subjects of ei<g ref="char:EOLhyphen"/>ther, the attemptors and ſuch as do offend therein only, ſhall be puniſhed and no other.</p>
+               <p>And laſtly, the Orders of the 26. <hi>Auguſt</hi> and 1. <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> 1642. whereby the Honour and Juſtice of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> is ſo deeply engaged for the reſtoring of the ſaid mony.</p>
+               <p>The Orders of 26. and 27. of <hi>Auguſt</hi> 1642. to bring up the <hi>Plate</hi> that ſo it may be kept to the uſe of the true owners, to be reſtored ſo ſoone as the <hi>Parliament</hi> ſhall be informed to whom the ſame ſhall belong.</p>
+               <p>An Order of the 7. <hi>Sept.</hi> 1642. That ſilver be coyned to the end the proprietors may have the proceed of the ſaid Silver ſo ſoone as they ſhall make there right ap<g ref="char:EOLhyphen"/>peare.</p>
+               <p>
+                  <pb n="10" facs="tcp:135388:6"/>
+I needed not to have ſet forth more to your Honours for the clearing of this preſent caſe, then the ſaid Lawes of this Kingdom, Articles of the Peace, <hi>Charta merca<g ref="char:EOLunhyphen"/>toria,</hi> and the ſpeciall Orders of both Houſes of <hi>Parli<g ref="char:EOLhyphen"/>ament.</hi>
+               </p>
+               <p>But leaſt the importunity of the pretenders ſhould pre<g ref="char:EOLhyphen"/>vaile in the ſeizing, or applying any of theſe monies for their dammages (and that by the ſame rule theſe Sub<g ref="char:EOLhyphen"/>jects of the King my Maſter, ſhould obtaine ſeizure upon the goods of the Subjects of this Nation in his Domini<g ref="char:EOLhyphen"/>ons for their ſatisfaction, whereby free Comerce might ceaſe, or Trade be quite overthrowne) I have been the larger in my exemplifications, that if any breach or di<g ref="char:EOLhyphen"/>ſtractions in Trade, ſhall ſucceed by the carriage of this buſines, it may appear to all the world, that it hath not proceeded from any thing intended by the King my Ma<g ref="char:EOLhyphen"/>ſter, nor from me, nor His Subjects, nor accordingly to be imputed to him.</p>
+               <p>Wherefore, and for what hath ſo plainly been Remon<g ref="char:EOLhyphen"/>ſtrated unto you on the behalf of my Maſter His Catho<g ref="char:EOLhyphen"/>lick Majeſties Subjects; I ſhall deſire their further atten<g ref="char:EOLhyphen"/>dance, in making any more defence to the claimes and pre<g ref="char:EOLhyphen"/>tence of the ſaid <hi>Huet Leate,</hi> Col. <hi>Manwaring, Hawes</hi> and the Adventurers to the <hi>Iſle</hi> of <hi>Providence</hi> may be ſpared.</p>
+               <p>And according to my Commiſſion given me from my ſaid Maſter, I ſhall once more deſire, that there may be ſpeedy payment made of ſaid the 50464. pounds, together with intereſt due for the forbearance therof unto my Maſters Subjects, Petitioning your Honours for the ſame, or that I may receive your poſitive anſwer, that I may re<g ref="char:EOLhyphen"/>turne it and my Maſters Subjects left to ſeek Juſtice in ſome other place.</p>
+               <p>All which, I do the more earneſtly preſſe, for that it is now near two yeares ſince that the firſt Letters came to my hands from His ſaid Majeſty, Commanding me to uſe my utmoſt diligence in the premiſſes.</p>
+               <p>
+                  <pb n="11" facs="tcp:135388:6"/>
+And in caſe I ſhould not prevaile to returne ſuddaine anſwer, that according to the great and crying neceſſi<g ref="char:EOLhyphen"/>ty of His ſaid Subjects, Juſtice may be done them in <hi>Spaine.</hi>
+               </p>
+               <p>All which notwithſtanding, in hopes that in ſome rea<g ref="char:EOLhyphen"/>ſonable time there would be ſome complyance in the ſatis<g ref="char:EOLhyphen"/>faction of the ſaid monies whereby a good underſtand<g ref="char:EOLhyphen"/>ing might be preſerved betwixt the two Nations.</p>
+               <p>I have hitherto adventured, to anſwer with excuſes builte upon the many urgent occaſions, that have ſince intervened in the affaires of <hi>England;</hi> whereby the buſineſſe could not be intended by the <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>But ſince my Maſters Commands upon me are ſuch, that excuſes will not longer be admitted; Wherefore I now again as before, earneſtly deſire a punctuall, and ſud<g ref="char:EOLhyphen"/>dain performance of the premiſſes, or a poſſitive anſwer; wherein I may reſt from uſing any further diligence to your Honours concerning the Premiſſes.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
